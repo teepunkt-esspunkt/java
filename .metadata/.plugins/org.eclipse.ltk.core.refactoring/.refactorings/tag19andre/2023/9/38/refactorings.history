@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;tag19andre/src/Nachmittagsaufgabe Vortag&apos; to &apos;Nachmittagsaufgabe&apos;" description="Rename resource &apos;Nachmittagsaufgabe Vortag&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Nachmittagsaufgabe Vortag" name="Nachmittagsaufgabe" stamp="1695297870315" updateReferences="true"/>
-</session>
